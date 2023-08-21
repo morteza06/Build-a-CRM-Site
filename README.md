@@ -1,6 +1,19 @@
 # Build-a-CRM-Site
 
-1# Tailwind bootsrtrap
-2# postgresql  database
-3# Authtentictaion Form = Login-logut- user managment
-Application model and development with best design
+- Tailwind style
+* postgresql database
++ Authentictaion 
+
+## `Snapshot` from site
+
+
+### Landing Page
+![Landing_page](https://github.com/morteza06/Build-a-CRM-Site/blob/master/Landing_page.JPG)
+### Dashboard
+![Dashboard](https://github.com/morteza06/Build-a-CRM-Site/blob/master/Dashboard.JPG)
+### Createuser
+![CreateUser](https://github.com/morteza06/Build-a-CRM-Site/blob/master/Create_user.JPG)
+### Agent
+![Agent](https://github.com/morteza06/Build-a-CRM-Site/blob/master/Agent.JPG)
+### Leads
+![Leads](https://github.com/morteza06/Build-a-CRM-Site/blob/master/Leads.JPG)
